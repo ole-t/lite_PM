@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.79072314.css",
-    "main.js": "./static/js/main.fdae18da.js",
+    "main.js": "./static/js/main.d4a440e8.js",
     "static/media/logoMain_01.png": "./static/media/logoMain_01.da936f3f6978c32030fc.png",
     "static/media/___settings_cogs.svg": "./static/media/___settings_cogs.e39bf2e34c5f086860b05f5fcc38e1ae.svg",
     "index.html": "./index.html",
     "static/media/___information.svg": "./static/media/___information.de601bffcc65620d7328876187a29bd0.svg",
     "static/media/___setSettingsProgect.svg": "./static/media/___setSettingsProgect.a150c4cdfd7033c690cf729fb51b3305.svg",
     "static/media/___lookFiles.svg": "./static/media/___lookFiles.05118d8de8e7dff90e4e9ecc5b0a55b2.svg",
+    "static/media/_user_settings_1.svg": "./static/media/_user_settings_1.8b392b6f62a71c1389793afb5ef04113.svg",
     "static/media/___contact_list.svg": "./static/media/___contact_list.b52b7487a6aecea65d246faee344d2dc.svg",
     "static/media/___signalOff.svg": "./static/media/___signalOff.d183ea5fc6b16899ecc334a955e3b9dc.svg",
     "static/media/___soundOff.svg": "./static/media/___soundOff.514a6dfafe3a24b71966a3db56909fca.svg",
@@ -34,8 +35,10 @@
     "static/media/_indication_PersonalKonrtrol_subProject_2.svg": "./static/media/_indication_PersonalKonrtrol_subProject_2.db14840642b2eea025a2de5b53fb69a4.svg",
     "static/media/___listBox.svg": "./static/media/___listBox.f3056e0efc84f5d9150e04d044c6bca1.svg",
     "static/media/_message_Project.svg": "./static/media/_message_Project.ffe24abaeb56c6af70c15d099f4e98f7.svg",
+    "static/media/_login.svg": "./static/media/_login.795b6c9e09df80a08d72fd3bc2994f12.svg",
     "static/media/_newSettings_Project.svg": "./static/media/_newSettings_Project.8f6232c74b786ac52832ca93069a9c7a.svg",
     "static/media/___viewBlocks.svg": "./static/media/___viewBlocks.5972d4f34c00e124f7ee51a411b2daea.svg",
+    "static/media/_logout.svg": "./static/media/_logout.c6a18b671d456719e0dca12065de29dc.svg",
     "static/media/___chevron-double-down.svg": "./static/media/___chevron-double-down.4a5b8dfaaa3afb3200a07e9dee9b991b.svg",
     "static/media/___trashCanOutline.svg": "./static/media/___trashCanOutline.bcf8d6ff346603c8a51ab63a51579941.svg",
     "static/media/___folder.svg": "./static/media/___folder.637824bc8f2833004ccc5676b691f627.svg",
@@ -46,10 +49,10 @@
     "static/media/___vectorsSortTopDown.svg": "./static/media/___vectorsSortTopDown.42d3d0b673ef3e9b67b564164d907a21.svg",
     "static/media/___plus.svg": "./static/media/___plus.3cffe9a515498593b8721ae7cc7955b0.svg",
     "main.79072314.css.map": "./static/css/main.79072314.css.map",
-    "main.fdae18da.js.map": "./static/js/main.fdae18da.js.map"
+    "main.d4a440e8.js.map": "./static/js/main.d4a440e8.js.map"
   },
   "entrypoints": [
     "static/css/main.79072314.css",
-    "static/js/main.fdae18da.js"
+    "static/js/main.d4a440e8.js"
   ]
 }
