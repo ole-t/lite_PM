@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.79072314.css",
-    "main.js": "./static/js/main.d4a440e8.js",
+    "main.css": "./static/css/main.ba7ec93b.css",
+    "main.js": "./static/js/main.cc3fef76.js",
     "static/media/logoMain_01.png": "./static/media/logoMain_01.da936f3f6978c32030fc.png",
     "static/media/___settings_cogs.svg": "./static/media/___settings_cogs.e39bf2e34c5f086860b05f5fcc38e1ae.svg",
     "index.html": "./index.html",
+    "static/media/___filter_outline.svg": "./static/media/___filter_outline.980886f75532483134f129816339e45f.svg",
     "static/media/___information.svg": "./static/media/___information.de601bffcc65620d7328876187a29bd0.svg",
     "static/media/___setSettingsProgect.svg": "./static/media/___setSettingsProgect.a150c4cdfd7033c690cf729fb51b3305.svg",
     "static/media/___lookFiles.svg": "./static/media/___lookFiles.05118d8de8e7dff90e4e9ecc5b0a55b2.svg",
     "static/media/_user_settings_1.svg": "./static/media/_user_settings_1.8b392b6f62a71c1389793afb5ef04113.svg",
+    "static/media/___edit_list_1.svg": "./static/media/___edit_list_1.904b498152eb405992df6e6e280c0dce.svg",
     "static/media/___contact_list.svg": "./static/media/___contact_list.b52b7487a6aecea65d246faee344d2dc.svg",
     "static/media/___signalOff.svg": "./static/media/___signalOff.d183ea5fc6b16899ecc334a955e3b9dc.svg",
     "static/media/___soundOff.svg": "./static/media/___soundOff.514a6dfafe3a24b71966a3db56909fca.svg",
     "static/media/___account_off.svg": "./static/media/___account_off.2392c2c3d9b0184efc708f3a71402ebd.svg",
     "static/media/_timerAlert_02.svg": "./static/media/_timerAlert_02.f5d3c6a87f045fb6b43b1e670d391d76.svg",
     "static/media/___signalOn.svg": "./static/media/___signalOn.92545f67f5303d0f39221a36df43a6d5.svg",
+    "static/media/___plusCorpAcc.svg": "./static/media/___plusCorpAcc.7162b20b07911bb9c7e725ff2619d53e.svg",
     "static/media/___teamList.svg": "./static/media/___teamList.6f03459f03ad5d7ab0428b14edf2ede4.svg",
     "static/media/___filter.svg": "./static/media/___filter.abc6c8a60fbddef32dc69e76d982d5e1.svg",
     "static/media/_message_subProject.svg": "./static/media/_message_subProject.710ecdf97d523ee5d6b8e2a2b7f193bd.svg",
     "static/media/_timerAlert_Task_02.svg": "./static/media/_timerAlert_Task_02.89afb7ebc9d5381e2fe7aa413d2799f5.svg",
-    "static/media/___sortList.svg": "./static/media/___sortList.1c7b7d3cb833877b93f094abe6c0515d.svg",
     "static/media/_timerAlert_Task_03.svg": "./static/media/_timerAlert_Task_03.7441785cfa07827cd5c6932883554b35.svg",
+    "static/media/___sortVertical.svg": "./static/media/___sortVertical.8210a43c1efbaaa206a823a1909aa80a.svg",
     "static/media/_timerAlert_03.svg": "./static/media/_timerAlert_03.fb0305926b97c5fcc6a887cbe60d7a0d.svg",
     "static/media/___filterSet.svg": "./static/media/___filterSet.b10379785b41b98399ab893c7fe4e45f.svg",
     "static/media/___aboutServise.svg": "./static/media/___aboutServise.d3ba926e456ce388ac4a95f51d0916db.svg",
@@ -42,17 +45,19 @@
     "static/media/___chevron-double-down.svg": "./static/media/___chevron-double-down.4a5b8dfaaa3afb3200a07e9dee9b991b.svg",
     "static/media/___trashCanOutline.svg": "./static/media/___trashCanOutline.bcf8d6ff346603c8a51ab63a51579941.svg",
     "static/media/___folder.svg": "./static/media/___folder.637824bc8f2833004ccc5676b691f627.svg",
+    "static/media/___tab_plus.svg": "./static/media/___tab_plus.ec80dc8fca505ea04936b9f01a8208a4.svg",
     "static/media/___sendMessage.svg": "./static/media/___sendMessage.09553624ee3b6bdea9b2242bdc8e5f53.svg",
     "static/media/___viewLines.svg": "./static/media/___viewLines.6d7bf5b970da1fe3297abb18a1279923.svg",
     "static/media/___vectorRight.svg": "./static/media/___vectorRight.cb3e629604702ef8bc6635945ad81bd6.svg",
     "static/media/___vectorDown.svg": "./static/media/___vectorDown.da1d4548b671a011dfa46ffe6ad020cc.svg",
+    "static/media/___sortList.svg": "./static/media/___sortList.42d3d0b673ef3e9b67b564164d907a21.svg",
     "static/media/___vectorsSortTopDown.svg": "./static/media/___vectorsSortTopDown.42d3d0b673ef3e9b67b564164d907a21.svg",
     "static/media/___plus.svg": "./static/media/___plus.3cffe9a515498593b8721ae7cc7955b0.svg",
-    "main.79072314.css.map": "./static/css/main.79072314.css.map",
-    "main.d4a440e8.js.map": "./static/js/main.d4a440e8.js.map"
+    "main.ba7ec93b.css.map": "./static/css/main.ba7ec93b.css.map",
+    "main.cc3fef76.js.map": "./static/js/main.cc3fef76.js.map"
   },
   "entrypoints": [
-    "static/css/main.79072314.css",
-    "static/js/main.d4a440e8.js"
+    "static/css/main.ba7ec93b.css",
+    "static/js/main.cc3fef76.js"
   ]
 }
